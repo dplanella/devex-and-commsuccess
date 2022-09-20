@@ -1,4 +1,34 @@
+### Site metadata
+
+# If you don't set these, they will be inferred from the repo's description on GitHub.
 title: Developer Experience and Community Success handbook
 description: Linux Foundations's Developer Experience and Community Success team handbook
+
+### Build settings
+
+url: https://dplanella.github.io
+baseurl: /devex-and-commsuccess
+
+theme: just-the-docs
+
 plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jemoji
+
+defaults:
+  - scope:
+      path: "*.md"
+    values:
+      layout: page
+
+exclude:
+  - docs/
+  - LICENSE
+  - Makefile
+  - README.md
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.7"
+
