@@ -1,3 +1,9 @@
+---
+layout: default
+title: Editing the handbook
+nav_order: 2
+---
+
 # How to edit the handbook
 {:.no_toc}
 
