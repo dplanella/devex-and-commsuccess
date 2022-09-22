@@ -7,6 +7,7 @@ permalink: / # Relative URL of the page
 # Page title
 {:.no_toc}
 
+<!-- Remove this section and tags if you don't need a table of contents -->
 ## On this page
 {:.no_toc}
 
