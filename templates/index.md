@@ -1,3 +1,8 @@
+---
+title: Templates
+nav_order: 3
+---
+
 [Based on Brian's template]
 
 Thank you for being a [Platinum/Gold/Silver/etc] Member in [Project name]. 
