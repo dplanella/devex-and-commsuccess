@@ -1,3 +1,9 @@
+---
+title: Edit this handbook
+nav_order: 6
+permalink: /edit-this-handbook
+---
+
 ## On this page
 {:.no_toc}
 
