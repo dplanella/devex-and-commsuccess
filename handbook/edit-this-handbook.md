@@ -1,6 +1,7 @@
 ---
-title: Editing the handbook
+title: Edit this handbook
 nav_order: 2
+permalink: /edit-this-handbook
 ---
 
 ## On this page
