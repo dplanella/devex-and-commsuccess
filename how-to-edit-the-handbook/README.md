@@ -1,3 +1,6 @@
+# How to edit the handbook
+{:.no_toc}
+
 ## On this page
 {:.no_toc}
 
