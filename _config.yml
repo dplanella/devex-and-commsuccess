@@ -1,6 +1,6 @@
 title: Developer Experience and Community Success handbook
 description: Linux Foundations's Developer Experience and Community Success team handbook
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 plugins:
   - jemoji
 
