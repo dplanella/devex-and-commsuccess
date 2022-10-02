@@ -15,4 +15,4 @@ permalink: /
 
 This handbook describes how we run the Developer Experience and Community Success team at the Linux Foundation. If you are viewing the markdown sources on the repository, you can also view the rendered documentation at [the handbook site](https://linuxfoundation.github.io/devex-and-commsuccess/). The site is generally the best URL to bookmark and share.
 
-All team members are [encouraged to contribute to the handbook](https://linuxfoundation.github.io/devex-and-commsuccess/edit-this-handbook).
+All team members are [encouraged to contribute to the handbook](/devex-and-commsuccess/edit-this-handbook.html).
