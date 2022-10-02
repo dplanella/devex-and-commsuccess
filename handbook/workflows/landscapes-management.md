@@ -1,4 +1,19 @@
+---
+title: Landscapes management
+parent: Workflows
+permalink: /workflows/landscapes-management
+---
+
 # Landscapes
+{:.no_toc}
+
+![Landscapes screenshot](/assets/images/landscape-screenshot.png)
+
+## On this page
+{:.no_toc}
+
+* TOC
+{:toc}
 
 ## Overview
 
@@ -18,7 +33,7 @@ All of the current landscapes managed by the LF are at https://landscapes.dev/
 
 First you need to work with the community on the scope of projects to include in the landscape. Questions to ask include...
 
-- What is the full scope of projects to include? Is it just hosted projects, or any in the related space.
+- What is the full scope of projects to include? Is it just hosted projects, or any in the related space?
 - Threshold for project inclusion. Some landscapes have a minimum GitHub stars requirement; others might be that it's used in production.
 - Categories. The landscape allows both a primary category and sub category, but note that a project can only be in one category.
 - What other efforts should be shown. Examples from other landscapes include...
@@ -53,8 +68,9 @@ Head to https://weblandscapes.ddns.net/ and you can select the landscape you wis
 You can modify and change the landscape locally and then push upstream once done. This is a good way to do the initial buildout as it's a bit quicker.
 
 You will need:
-(1) Visual Studio Code
-(2) Github Desktop
+
+1. Visual Studio Code
+2. Github Desktop
 
 Step 1:
 
