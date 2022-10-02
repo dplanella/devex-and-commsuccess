@@ -5,6 +5,9 @@ nav_order: 1
 permalink: /
 ---
 
+# Developer Experience and Community Success team handbook
+{:.no_toc}
+
 ## On this page
 {:.no_toc}
 
