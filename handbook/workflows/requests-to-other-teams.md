@@ -5,6 +5,7 @@ permalink: /workflows/requests-to-other-teams
 ---
 
 # Submitting requests to other teams
+{:.no_toc}
 
 ## On this page
 {:.no_toc}

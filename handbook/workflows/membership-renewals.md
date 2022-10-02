@@ -5,6 +5,7 @@ permalink: /workflows/membership-renewals
 ---
 
 # Membership renewals
+{:.no_toc}
 
 ## On this page
 {:.no_toc}

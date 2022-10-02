@@ -1,4 +1,19 @@
-# Storefronts
+---
+title: Creating a community storefront
+parent: Workflows
+permalink: /workflows/community-storefront
+---
+
+# Creating a community storefront
+{:.no_toc}
+
+## On this page
+{:.no_toc}
+
+* TOC
+{:toc}
+
+## What is a community storefront
 
 A community storefront is an online store that sells project or community branded merchandise to the public.  Examples of typical merchandise include t-shirts, hoodies, water bottles, stickers and socks, but there is a wide array of clothing and miscellaneous items available from most vendors. 
 
@@ -7,7 +22,7 @@ Example stores:
 - https://store.cd.foundation
 - https://store.cncf.io
 
-## Revenue and Expense Model
+## Revenue and expense model
 
 ### Pre-printing vs print-on-demand
 
@@ -15,7 +30,7 @@ There are two general models: Pre-printed stock, and print-on-demand. When you c
 
 Pinnacle Branding can offer a mix of both models - pre-printing for common items (stickers, t-shirts in common sizes and colors, water bottles), and print-on-demand for less-common items (novelty items or less-common sizes). The right mix between the two will depend upon your community; there is no single right way to do it.
 
-### Pricing Strategies
+### Pricing strategies
 
 You can work with Pinnacle Branding to set pricing. Your prices can range from free (for example, a swag kit for governing board members or for incentives/rewards) to subsidized to profit-generating. As with any situation where you’re setting the price of the item, you need to gauge your community’s willingness to pay the price you’re setting. If your goal is to raise awareness, you may have a good reason to subsidize the goods and increase their reach. If your community is already very enthusiastic, they may be willing to pay the full price of the item.
 

@@ -5,6 +5,7 @@ permalink: /workflows/third-party-vendor-contracts
 ---
 
 # How to set up a third party contract vendor
+{:.no_toc}
 
 ## On this page
 {:.no_toc}

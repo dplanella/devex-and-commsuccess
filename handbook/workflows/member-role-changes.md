@@ -5,6 +5,7 @@ permalink: /workflows/member-role-change
 ---
 
 # How to change member roles
+{:.no_toc}
 
 ## On this page
 {:.no_toc}
