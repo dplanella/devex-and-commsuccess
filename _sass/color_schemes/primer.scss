@@ -1,1 +1,10 @@
-$link-color: $blue-000;
+// Custom theme with light modifications
+// to the default just-the-docs theme
+// See https://just-the-docs.github.io/just-the-docs/docs/customization/#define-a-custom-scheme
+// and https://just-the-docs.github.io/just-the-docs/docs/customization/#use-a-custom-scheme
+
+$black-pr-000: #24292e;
+$blue-pr-000: #0366d6;
+
+$link-color: $blue-pr-000;
+$body-text-color: $black-pr-000;
